@@ -6,9 +6,4 @@ To Start app:
 2) npm run
 
 
-Technologies used:
-Angular 2
-Javascript
-Typescript
-HTML
-CSS
+Technologies used: Angular 2,Typescript,Javascript, HTML, CSS
