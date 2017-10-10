@@ -2,8 +2,8 @@ Tour of Heroes App: (Angular 2 app)
 
 To Start app:
 
-npm install
-npm run
+1) npm install
+2) npm run
 
 
 Technologies used:
